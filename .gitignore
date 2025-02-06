@@ -1,3 +1,10 @@
+*.xml
+*.xlsx
+*.xls
+*.png
+*.stl
+*.env
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
