@@ -34,7 +34,7 @@ Create a `.env` file in the root directory and add the following details:
 ```env
 EMAIL=your_email@example.com
 PASSWORD=your_password
-PRICE_PER_GRAM=0.05
+PRICE_PER_GRAM=1
 FILLNESS=0.25
 ```
 
